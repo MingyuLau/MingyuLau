@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,👋I'm Liu Mingyu
 #### 🔭 I’m currently an undergraduate at Huazhong University of Science and Technology, school of Artificial Intelligience and Automatic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingyuLau&layout=compact)](https://github.com/MingyuLau/github-readme-stats)
