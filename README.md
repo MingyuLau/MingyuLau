@@ -1,5 +1,9 @@
 ### Hi there 👋
+#### 🔭 I’m currently an undergraduate at Huazhong University of Science and Technology, school of Artificial Intelligience and Automatic
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingyuLau&layout=compact)](https://github.com/MingyuLau/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingyuLau&show_icons=true&theme=tokyonight)
 <!--
 **MingyuLau/MingyuLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 📫 How to reach me:
+lmy20011207@gmail.com \
+u202014910@hust.edu.cn \
+WeChat: LMY-20011207
