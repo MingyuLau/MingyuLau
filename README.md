@@ -3,7 +3,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/MingyuLau/MingyuLau/blob/main/1.png" width="35%" height="auto" />
 
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/MingyuLau)
