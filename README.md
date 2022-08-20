@@ -3,7 +3,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<img align="right" alt="img" src="https://github.com/MingyuLau/MingyuLau/blob/main/1.png" width="35%" height="auto" />
+<img align="right" alt="img" src="https://github.com/MingyuLau/MingyuLau/blob/main/1.png" width="45%" height="auto" />
 
 ## Contact me with:
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/MingyuLau)
@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
   - Learning how to deploy Machine Learning/Deep Learning Models
   - Reading papers on ML/DL/AI
 
-- I’m looking to collaborate with other self-motivated researchers!
+- I’m looking forward to collaborate with other self-motivated researchers!
 <br />
 
 <img width="500" height="auto" align="left" alt="MingyuLau's github stats" 
