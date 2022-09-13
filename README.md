@@ -11,9 +11,9 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lmy20011207@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast!
+## I'm a AI/Robotic  Enthusiast!
 - I’m currently an undergraduate at Huazhong University of Science and Technology(HUST), School of Artificial Intelligience and Automatic
-- I’m currently working on building my knowledge in the field of Computer Vision and Pattern Recognition!
+- My researching interests lies in OCR recently
 - I’m looking forward to collaborate with other self-motivated researchers!
 <br />
 
