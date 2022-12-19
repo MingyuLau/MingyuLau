@@ -14,7 +14,6 @@ You can use the website to generate badges: https://shields.io/
 ## I'm a AI/Robotic  Enthusiast!
 - I’m currently an undergraduate at Huazhong University of Science and Technology(HUST), School of Artificial Intelligience and Automation
 - My research interests lies in OCR recently
-- I’m looking forward to collaborate with other self-motivated researchers!
 <br />
 
 <img width="500" height="auto" align="left" alt="MingyuLau's github stats" 
