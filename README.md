@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lmy20011207@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 &nbsp;
-## I'm a AI/Robotic  Enthusiast!
+## I'm a CV/Robotic  Enthusiast!
 - I’m currently an undergraduate at Huazhong University of Science and Technology(HUST), School of Artificial Intelligience and Automation
 - My research interests lies in OCR recently
 <br />
